@@ -2,9 +2,8 @@
 The scripts taught by me as a part of Machine and Deep Learning lecture series at Nirma University, Ahmedabad
 
 # Curriculum 
-1) Statistics
-2) Machine Learning 1(Regression and CLassification)
-3) Machine Learning 2(SVR, genetic algorithms and ANN)
+1) Basics of ML and python
+2) Machine Learning 1(Supervised and Unsupervised Learning)
 4) Deep Learning 1(ANN and CNN intuition)
 5) Deep Learning 2(CNN hands on)
 6) Deep Learning 3(RNN)
