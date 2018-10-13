@@ -1,5 +1,7 @@
 # machinelearning_lecture
-The scripts taught by me as a part of Machine and Deep Learning lecture series at Nirma University, Ahmedabad
+The scripts taught by students as a part of Machine and Deep Learning lecture series at Nirma University, Ahmedabad
+
+![ml](https://user-images.githubusercontent.com/26832180/45252455-2d286380-b374-11e8-954c-30d03a47d185.PNG)
 
 # Curriculum 
 1) Orientation
