@@ -1,5 +1,7 @@
 # machinelearning_lecture
-The scripts taught by me as a part of Machine and Deep Learning lecture series at Nirma University, Ahmedabad
+The scripts taught by students as a part of Machine and Deep Learning lecture series at Nirma University, Ahmedabad
+
+![ml](https://user-images.githubusercontent.com/26832180/45252455-2d286380-b374-11e8-954c-30d03a47d185.PNG)
 
 # Curriculum 
 1) Orientation
@@ -10,3 +12,9 @@ The scripts taught by me as a part of Machine and Deep Learning lecture series a
 7) Deep Learning 4(RNN hands on)
 8) Deep Learning 5(GAN)
 9) Deep Learning 6(Introduction to other nets like DBN, RBM, Autoencoders, etc)
+
+## Further Reading
+You can find the links for further reading [here](Further-Reading.md)
+
+## Code of conduct
+[Our code of conduct](CODE-OF-CONDUCT.md)
